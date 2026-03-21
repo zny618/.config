@@ -1,0 +1,21 @@
+{
+  "settings_version": "0.0.6",
+  "datasets_dir": "/home/zny/Document/yolo/ultralytics/datasets",
+  "weights_dir": "weights",
+  "runs_dir": "runs",
+  "uuid": "0021068f1cbbca7144964a6d383e1730b0781b9f92bb99a47227aa84074f909e",
+  "sync": true,
+  "api_key": "",
+  "openai_api_key": "",
+  "clearml": true,
+  "comet": true,
+  "dvc": true,
+  "hub": true,
+  "mlflow": true,
+  "neptune": true,
+  "raytune": true,
+  "tensorboard": false,
+  "wandb": false,
+  "vscode_msg": true,
+  "openvino_msg": false
+}
