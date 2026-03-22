@@ -125,6 +125,8 @@ alias c=clear
 alias fl="fastfetch|lolcat"
 alias f="pokemon-colorscripts --no-title -s -r | fastfetch -c $HOME/.config/fastfetch/config-pokemon.jsonc --logo-type file-raw --logo-height 10 --logo-width 5 --logo -"
 alias fa=fastfetch
+alias g="git"
+alias lg="lazygit"
 
 # use wsl system proxy by clash-verge
 # export ALL_PROXY="socks5://172.28.208.1:7890"
